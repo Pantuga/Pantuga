@@ -1,6 +1,6 @@
 Hi, I'm Pantuga :)
 
-I'm just a silly teenager that likes coding random stuff
+I'm just a silly teenager who likes coding random stuff
 
 I currently know:
 - C++ (and a bit of C)
